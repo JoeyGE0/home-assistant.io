@@ -302,26 +302,26 @@ Recordings up to 1 month old can be viewed in Home Assistant.
 
 The following models have been tested and confirmed to work with a direct link to Home Assistant:
 
-- C1 Pro*
-- C2 Pro*
+- [C1 Pro*](https://reolink.com/product/c1-pro/)
+- [C2 Pro*](https://reolink.com/product/c2-pro/)
 - [CX410](https://reolink.com/product/cx410/)
 - [CX810](https://reolink.com/product/cx810/)
 - [E1 Zoom](https://reolink.com/product/e1-zoom/)
 - [E1 Outdoor](https://reolink.com/product/e1-outdoor/)
 - [E1 Outdoor PoE](https://reolink.com/product/e1-outdoor-poe/)
 - [E1 Outdoor Pro](https://reolink.com/product/e1-outdoor-pro/)
-- RLC-410*
+- [RLC-410*](https://reolink.com/product/rlc-410/)
 - [RLC-410W](https://reolink.com/product/rlc-410w/)
-- RLC-411*
-- RLC-420*
-- RLC-423*
+- [RLC-411*](https://reolink.com/product/rlc-411/)
+- [RLC-420*](https://reolink.com/product/rlc-420/)
+- [RLC-423*](https://reolink.com/product/rlc-423/)
 - [RLC-510A](https://reolink.com/product/rlc-510a/)
-- RLC-511*
-- RLC-511W*
+- [RLC-511*](https://reolink.com/product/rlc-511/)
+- [RLC-511W*](https://reolink.com/product/rlc-511w/)
 - [RLC-511WA](https://reolink.com/product/rlc-511wa/)
-- RLC-520*
+- [RLC-520*](https://reolink.com/product/rlc-520/)
 - [RLC-520A](https://reolink.com/product/rlc-520a/)
-- RLC-522*
+- [RLC-522*](https://reolink.com/product/rlc-522/)
 - [RLC-810A](https://reolink.com/product/rlc-810a/)
 - [RLC-810WA](https://reolink.com/product/rlc-810wa/)
 - [RLC-811A](https://reolink.com/product/rlc-811a/)
@@ -345,11 +345,11 @@ The following models have been tested and confirmed to work with a direct link t
 - [Reolink Duo WiFi](https://reolink.com/product/reolink-duo-wifi-v1/)
 - [Reolink Duo 2 WiFi](https://reolink.com/product/reolink-duo-wifi/)
 - [Reolink Duo 3 PoE](https://reolink.com/product/reolink-duo-3-poe/)
-- Reolink Duo Floodlight ([PoE](https://reolink.com/product/reolink-duo-floodlight-poe/) and [Wi-Fi](https://reolink.com/product/reolink-duo-floodlight-wifi/))
+- [Reolink Duo Floodlight](https://reolink.com/product/reolink-duo-floodlight-poe/) and [Wi-Fi](https://reolink.com/product/reolink-duo-floodlight-wifi/)
 - [Reolink Home Hub](https://reolink.com/product/reolink-home-hub/)
 - [Reolink Home Hub Pro](https://reolink.com/product/reolink-home-hub-pro/)
-- Reolink TrackMix ([PoE](https://reolink.com/product/reolink-trackmix-poe/) and [Wi-Fi](https://reolink.com/product/reolink-trackmix-wifi/))
-- Reolink Video Doorbell ([PoE Black](https://reolink.com/product/reolink-video-doorbell/), [Wi-Fi Black](https://reolink.com/product/reolink-video-doorbell-wifi/), [PoE White](https://reolink.com/product/reolink-video-doorbell/) and [Wi-Fi White](https://reolink.com/product/reolink-video-doorbell-wifi/))
+- [Reolink TrackMix](https://reolink.com/product/reolink-trackmix-poe/) and [Wi-Fi](https://reolink.com/product/reolink-trackmix-wifi/)
+- [Reolink Video Doorbell](https://reolink.com/product/reolink-video-doorbell/) ([PoE Black](https://reolink.com/product/reolink-video-doorbell/), [Wi-Fi Black](https://reolink.com/product/reolink-video-doorbell-wifi/), [PoE White](https://reolink.com/product/reolink-video-doorbell/) and [Wi-Fi White](https://reolink.com/product/reolink-video-doorbell-wifi/))
 
 *These models are discontinued and not sold anymore, they will continue to work with Home Assistant.
 
