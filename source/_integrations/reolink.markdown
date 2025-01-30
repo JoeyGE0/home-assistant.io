@@ -85,7 +85,7 @@ This integration creates a few camera entities, one for each stream type with di
 
 The Fluent stream camera entity is enabled by default; the other streams are disabled by default.
 The Snapshots stream provides a sequence of image snapshots giving very low latency at the cost of a very low frame rate; this can be used when the RTMP/RTSP/FLV video stream has too much lag.
-Dual lens cameras provide additional streams for the second lens.
+Dual-lens cameras provide additional streams for the second lens.
 
 ### Binary sensors
 
@@ -377,9 +377,9 @@ The following battery-powered models have been tested and confirmed to work thro
 
 Reolink provides [this larger list of battery camera models](https://support.reolink.com/hc/en-us/articles/32379509281561-Reolink-Home-Hub-Compatibility/) which are compatible with the Home Hub and should work with Home Assistant.
 
-### Models only compatible using a NVR/Home Hub
+### Models only compatible using an NVR/Home Hub
 
-The following models are lacking the HTTP web server API and can, therefore, not work directly with this integration.
+The following models lack the HTTP web server API and can, therefore, not work directly with this integration.
 However, these cameras can work with this integration through an NVR or Home Hub in which the NVR/Home Hub is connected to Home Assistant.
 
 - E1 Pro
@@ -396,19 +396,20 @@ However, these cameras can work with this integration through an NVR or Home Hub
 - D800*
 - D1200*
 
-*These models are only sold as a kit which includes a NVR.
+*These models are only sold as a kit which includes an NVR.
 
 ### Incompatible models
 
 Reolink LTE cameras do not work with this integration.
 
-- Reolink Go Plus
-- Reolink Go PT Plus
-- Reolink Go PT Ultra
-- Reolink Go Ranger PT
-- Reolink Go Ultra
-- Reolink TrackMix LTE
-- Reolink TrackMix LTE Plus
+- [Reolink Go Plus](https://reolink.com/product/reolink-go-plus/)
+- [Reolink Go PT Plus](https://reolink.com/product/reolink-go-pt-plus/)
+- [Reolink Go PT Ultra](https://reolink.com/product/reolink-go-pt-ultra/)
+- [Reolink Go Ranger PT](https://reolink.com/product/reolink-go-ranger-pt/)
+- [Reolink Go Ultra](https://reolink.com/product/reolink-go-ultra/)
+- [Reolink TrackMix LTE](https://reolink.com/product/reolink-trackmix-lte/)
+- [Reolink TrackMix LTE Plus](https://reolink.com/product/trackmix-lte-plus/)
+
 
 ## Initial setup
 
@@ -526,7 +527,7 @@ Prerequisites:
   <img src='/images/integrations/reolink/rich_notification__new_trigger.png' alt='Screenshot: new trigger'>
 </p>
 
-  Then under **Entity**, select the binary sensor from the drop-down list corresponding to the camera event for which you want to receive a rich notification. For the Reolink integration the options are:
+  Then under **Entity**, select the binary sensor from the drop-down list corresponding to the camera event for which you want to receive a rich notification. For the Reolink integration, the options are:
 
     - binary_sensor.*camera name*_motion
     - binary_sensor.*camera name*_person
